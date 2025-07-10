@@ -23,16 +23,24 @@ img {
 }
 
 footer {
-    background-color: #35424a;
-    color: #ffffff;
-    padding: 20px 0;
+    text-align: center;
     margin-top: 20px;
 }
 
 footer h3 {
-    margin: 10px 0;
-    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+footer h4 {
     display: inline;
+    margin: 0 15px;
+}
+
+footer .icone {
+    width: 30px;
+    height: auto;
+    vertical-align: middle;
+    margin-left: 5px;
 }
 
 a{
