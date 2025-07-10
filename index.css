@@ -16,20 +16,20 @@ section {
 }
 
 img {
-    width: 150px; /* Redimensionnement de l'image */
-    height: auto; /* Conserver le ratio */
-    border-radius: 50%; /* Pour un effet circulaire */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Ombre autour de l'image */
+    width: 350px;
+    height: auto;
+    border-radius: 20%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 footer {
-    background-color: #35424a; /* Couleur de fond */
-    color: #ffffff; /* Couleur du texte */
-    padding: 20px 0; /* Espacement */
-    margin-top: 20px; /* Marges au-dessus du footer */
+    background-color: #35424a;
+    color: #ffffff;
+    padding: 20px 0;
+    margin-top: 20px;
 }
 
 footer h3 {
-    margin: 10px 0; /* Espacement entre les éléments du footer */
-    font-size: 18px; /* Taille de police */
+    margin: 10px 0;
+    font-size: 18px;
 }
