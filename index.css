@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #35424a;
+    margin-top: 20px;
+}
+
+section {
+    margin: 20px 0;
+}
+
+img {
+    width: 150px; /* Redimensionnement de l'image */
+    height: auto; /* Conserver le ratio */
+    border-radius: 50%; /* Pour un effet circulaire */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Ombre autour de l'image */
+}
+
+footer {
+    background-color: #35424a; /* Couleur de fond */
+    color: #ffffff; /* Couleur du texte */
+    padding: 20px 0; /* Espacement */
+    margin-top: 20px; /* Marges au-dessus du footer */
+}
+
+footer h3 {
+    margin: 10px 0; /* Espacement entre les éléments du footer */
+    font-size: 18px; /* Taille de police */
+}
